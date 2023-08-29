@@ -1,40 +1,44 @@
-# [Your Full Name]
-[Address Line 1] | [Address Line 2] | [City, State, ZIP]  
-[Phone Number] | [Email Address] | [LinkedIn Profile]
+# [Arpana Nepal]
+[3400 Varsity Drive] | [Apt 1204] | [Tyler, Texas, 75701]  
+[9033436059] | [nepalarpana43@gmail.com] | [https://www.linkedin.com/in/arpana-n-700571112/]
 
-## Summary
-A brief summary of your professional background, skills, and career goals. Tailor this section to the specific position you're applying for.
+## Experienced Administrative Professional with a demonstrated history of working in the financial services industry. Skilled in Auditing, Intercultural Communication, Event Management, and Fundraising. A dedicated scholar with an Undergraduate degree focused in Accounting with a minor in Economics.. Currently a master's student at the University of Texas at Tyler.
 
 ## Education
-### [University Name], [City, State]
-**[Degree Earned, e.g., Ph.D. in Accounting and Finance]**, [Graduation Date]
-- Relevant Coursework: [List some relevant courses here]
+### [The University of Texas at Tyler], [Tyler, Texas]
+**[Master of Science, Accounting]**, [Expected Graduation:05/2023]
+- Relevant Coursework: [Data Analytics, Data Mining, Advanced Accounting]
 - Honors: [Any honors or awards]
 
-### [Another University Name], [City, State]
-**[Another Degree Earned]**, [Graduation Date]
-- Relevant Coursework: [List some relevant courses here]
-- Honors: [Any honors or awards]
+### [The University of Texas at Tyler], [Tyler, Texas]
+**[Bachelor's degree, Accounting]**, [05/2022]
+- Relevant Coursework: [Intermediate Accounting, Auditing, Cost Accounting]
+- Honors: [Outstanding Undergraduate Accounting Student]
+
+### [Sussex Coast College Hastings], [East Sussex, United Kingdom]
+**[A Level]**, [07/2017]
+- Relevant Coursework: [Business, Economics, Mathematics]
+- Honors: [Student of the Year]
 
 ## Professional Experience
-### [Company Name], [Position Title], [City, State], [Start Date] - [End Date]
-- Responsibility or Achievement 1
-- Responsibility or Achievement 2
-- Responsibility or Achievement 3
 
-### [Another Company Name], [Position Title], [City, State], [Start Date] - [End Date]
-- Responsibility or Achievement 1
-- Responsibility or Achievement 2
-- Responsibility or Achievement 3
+### [The University of Texas at Tyler], [Teaching Assistant], [Tyler, Texas], [08/2023] - [Present]
+- Evaluated credit worthiness
+- Gave customers line of credit
+- 
+### [Lane Gorman Trubitt], [Accounting Intern], [Dallas, Texas], [01/2023] - [05/2023]
+- Audited the Financial Statements of clients
+- Worked in industries including manufacturing, not-for profit, construction, etc.
 
-## Publications
-- "[Title of Paper]", *Journal Name*, [Year]
-- "[Another Title]", *Another Journal Name*, [Year]
+### [AutoNation], [Credit Coordinator], [Dallas, Texas], [05/2022] - [12/2022]
+- Evaluated credit worthiness
+- Gave customers line of credit
+   
 
 ## Skills
 - **Programming Languages:** STATA, Python, SAS
-- **Accounting Software:** [List relevant software here]
-- **Other Skills:** [List other relevant skills here]
+- **Accounting Software:** [JAMIS]
+- **Other Skills:** [Communication Skills, Auditing Skills]
 
 ## Certifications
 - [Certification Name], [Issuing Organization], [Date]
